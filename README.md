@@ -1,6 +1,6 @@
 # solitaire
 
-a quick and dirty console solitaire implementation using C#
+c# console solitaire implementation
 
 input is three numbers separated by spaces, for the starting tab, card, and ending tab
 
